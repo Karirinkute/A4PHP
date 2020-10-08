@@ -8,8 +8,9 @@
    </head>
    <body style="">
      <?php
-        $app = new \mvc\App();
-        echo $app;
+     $app = new \mvc\App();
+     echo $app;
       ?>
+      test
    </body>
  </html>
